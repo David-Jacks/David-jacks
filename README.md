@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi Github Users!
 
-<!--
-**David-Jacks/David-jacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on getting internships
+- 🌱 I’m currently learning Data Structures and Algorithms 
+- 👯 I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me: @https://www.linkedin.com/in/david-jackson-976741245/
+- ⚡ Fun fact: I Dance everytime i make a pull request 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+### I make use of
+![image](https://user-images.githubusercontent.com/82128740/216700707-11423bb7-db3d-4de9-89e8-ce8ee7059727.png)
+
+
+
+----
