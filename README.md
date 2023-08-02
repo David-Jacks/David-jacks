@@ -14,3 +14,7 @@
 
 
 ----
+## I have recently joined the Alx Software Engineering programming, and i am ready to do hard things
+*Watch out for more commits and pull request*
+## I am also getting interested in opensource contributions
+*Watch out for heavy opensource code contributions*
