@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on getting internships
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 👯 Collaborating on Open Source Projects
-- 📫 How to reach me: @https://www.linkedin.com/in/david-jackson-976741245/
+- 📫 Student at Lancaster University
 - ⚡ Fun fact: I Dance everytime i make a pull request 
 
 -----
