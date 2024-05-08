@@ -1,4 +1,4 @@
-### Hello World!
+## Hello World!
 
 - 🔭 I’m currently working on getting internships
 - 🌱 I’m currently learning Data Structures and Algorithms 
@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I Dance everytime i make a pull request 
 
 -----
-### Programming Languages
+## Programming Languages
 |Programming Language|Proficiency|
 |----|----|
 |Python|80%|
@@ -16,7 +16,7 @@
 |Java|60%|
 |Javascript|70%|
 
-### SKills
+## SKills
 |Skills|Experience|
 |----|----|
 |Reactjs|80%|
@@ -27,6 +27,6 @@
 |Bash|65%|
 
 ----
-# Alx Software Engineering programming, doing hard things
+### Alx Software Engineering programming, doing hard things
 
-# Interested in opensource contributions
+### Interested in opensource contributions
