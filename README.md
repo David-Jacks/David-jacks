@@ -11,6 +11,11 @@
 ###Skills and Languages
 |Programming Language|Proficiency|skills|experience|
 |----|----|----|----|
+|Python|80%|Reactjs|80%|
+|C|70%|React Native|50%|
+|C++|60%|NodeJS|50%|
+|Java|60%|Html|80%|
+|Javascript|70%|css|80&|
 
 
 
