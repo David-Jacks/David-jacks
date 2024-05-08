@@ -8,8 +8,10 @@
 - ⚡ Fun fact: I Dance everytime i make a pull request 
 
 -----
-### I make use of
-![image](https://user-images.githubusercontent.com/82128740/216700707-11423bb7-db3d-4de9-89e8-ce8ee7059727.png)
+###Skills and Languages
+|Programming Language|Proficiency|skills|experience|
+|----|----|----|----|
+
 
 
 
